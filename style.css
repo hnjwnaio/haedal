@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'IM_Hyemin-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Bold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumSquareRound';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+	color: black;
+    font-family: 'NanumSquareRound';
+    font-size:20px;
+}
+
+.black {
+    background: black;
+    width:160px;
+    margin:0 auto;
+}
+
+h1 {
+    color:white;
+    font-size: 40px;
+    text-align:center;
+    font-weight:900;
+}
+
+#subtitle {
+    font-size:25px;
+}
+
+#subtitle2 {
+    font-size:20px;
+}
+
+td, th {
+    padding:7px;
+}
+
+th {
+    text-align: center;
+    background: black;
+    color:white;
+}
+
+td {
+    text-align: center;
+    background: white;
+}
